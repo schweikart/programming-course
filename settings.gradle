@@ -1,0 +1,5 @@
+rootProject.name = 'programming-finals'
+include 'final1-ws1920'
+include 'final2-ws1920'
+include 'kit-terminal-lib'
+
